@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 
-int maint(void)
+int main(void)
 {
 char c  = 'Z';
 
