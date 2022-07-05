@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "1-main.c"
 /**
   print alphabet
   Return 0
@@ -15,4 +15,5 @@ void print_alphabet(void)
 	}
 	_putchar('\n');
 }
+
 
