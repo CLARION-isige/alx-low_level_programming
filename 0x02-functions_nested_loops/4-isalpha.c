@@ -1,7 +1,6 @@
 #include "main.h"
 /**
-   * _isalpha - check the code 
-   *
+   * _isalpha - check the code
    * @c: is c an integer argument
    *
    * Return: Always 0.
