@@ -1,6 +1,5 @@
 #include "main.h"
 /**
- *Description - print alphabet
  *print_alphabet - a to z
  * Return 0
  */
